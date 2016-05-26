@@ -6,6 +6,8 @@ A portal game to introduce me to Elixir
 ## Learnings
 - define a module with a group of functions
 - docs are first class citizents and can be access with `h` 
+- Elixir has  feature known as Supervisors to recover apps.  
+The Supervisor has multiple strategies on how to recover such as creating a new object
 
 ## Installation
 
