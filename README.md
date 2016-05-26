@@ -8,6 +8,11 @@ A portal game to introduce me to Elixir
 - docs are first class citizents and can be access with `h` 
 - Elixir has  feature known as Supervisors to recover apps.  
 The Supervisor has multiple strategies on how to recover such as creating a new object
+- Elixir has distrivuted transfers that allow you two launch code on different machines on the same network.  
+For example, you can create and modify a object on one machine and then pull that data from another.
+```bash
+iex --sname room1 --cokie secret -S mix
+```
 
 ## Installation
 
