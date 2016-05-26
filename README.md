@@ -1,6 +1,7 @@
 # Portal
 
-**TODO: Add description**
+A portal game to introduce me to Elixir
+[original](https://howistart.org/posts/elixir/1)
 
 ## Installation
 
